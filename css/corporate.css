@@ -856,7 +856,7 @@ Design and Developed by: featurethemes
 }
 .background-image08 {
 	padding: 0px;
-	background: url(http://via.placeholder.com/1920x1050) no-repeat center center;
+	background: url("../images/quote-01.jpg") no-repeat center center;
 	background-size: cover;
 	padding:7% 7%;
 }
