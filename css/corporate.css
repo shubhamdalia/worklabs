@@ -75,18 +75,18 @@ Design and Developed by: featurethemes
 }
 .feature-box-3 .iconbox-small {
 	line-height: 84px;
-	color: #ff214f;
+	color: #58c9a0;
 	background-color: #fff;
 	border: 1px solid #e4e4e4;
 }
 .feature-box-3:hover .iconbox-small, .feature-box-3.active .iconbox-small {
 	line-height: 84px;
 	color: #fff;
-	background-color: #ff214f;
-	border: 1px solid #ff214f;
+	background-color: #58c9a0;
+	border: 1px solid #58c9a0;
 }
 .feature-box-3:hover h4, .feature-box-3.active h4 {
-	color: #ff214f;
+	color: #58c9a0;
 }
 .feature-box-3 .image-holder {
 	width: 100%;
@@ -165,19 +165,19 @@ Design and Developed by: featurethemes
 }
 .feature-box-5 .col-md-3 i:hover {
 	border: solid 4px #e1e1e1;
-	background-color: #ff214f;
+	background-color: #58c9a0;
 	border-radius:100%;
 }
 .feature-box-5 .col-md-3 i.active {
 	border: solid 4px #e1e1e1;
-	background-color: #ff214f;
+	background-color: #58c9a0;
 	border-radius:100%;
 }
 .feature-box-5 .col-md-3 .circle:hover {
-	border: solid 3px #ff214f;
+	border: solid 3px #58c9a0;
 }
 .feature-box-5 .col-md-3 .circle.active {
-	border: solid 3px #ff214f;
+	border: solid 3px #58c9a0;
 }
 
 /*---------------------------*/
@@ -309,7 +309,7 @@ Design and Developed by: featurethemes
 	width: 70px;
 	height: 70px;
 	padding: 16px;
-	border: 1px solid #ff214f;
+	border: 1px solid #58c9a0;
 	margin-right: 25px;
 	margin-bottom: 40px;
 	border-radius: 100%;
@@ -318,8 +318,8 @@ Design and Developed by: featurethemes
 }
 .feature-box-9 .col-md-4:hover .icon {
 	padding: 20px;
-	border: 1px solid #ff214f;
-	background: #ff214f;
+	border: 1px solid #58c9a0;
+	background: #58c9a0;
 }
 
 
@@ -376,7 +376,7 @@ Design and Developed by: featurethemes
 .feature-box-12 {
 }
 .feature-box-12 .box {
-	border: 7px solid #ff214f;
+	border: 7px solid #58c9a0;
 	margin-top: 85px;
 	margin-left: -50px;
 	text-align: left;
@@ -485,7 +485,7 @@ Design and Developed by: featurethemes
 	width: 100%;
 	color: #fff;
 	text-align: center;
-	background-color: #ff214f;
+	background-color: #58c9a0;
 	padding: 50px 30px 31px 30px;
 }
 .hospital_section1 .box3 {
@@ -626,7 +626,7 @@ Design and Developed by: featurethemes
 }
 .construction_section1 .button.one {
 	font-family: 'Open Sans', sans-serif;
-	color: #ff214f;
+	color: #58c9a0;
 	font-size: 14px;
 	font-weight: 500;
 	transition: all 0.3s ease;
@@ -635,8 +635,8 @@ Design and Developed by: featurethemes
 	text-transform: uppercase;
 }
 .construction_section1:hover .button.one {
-	color: #ff214f;
-	border: 1px solid #ff214f;
+	color: #58c9a0;
+	border: 1px solid #58c9a0;
 }
 
 /*------------------------------------*/
@@ -653,7 +653,7 @@ Design and Developed by: featurethemes
 	height: 60px;
 	line-height: 60px;
 	border-radius: 4px;
-	background-color: #ff214f;
+	background-color: #58c9a0;
 	color: #fff;
 	font-size: 22px;
 	text-align: center;
@@ -665,7 +665,7 @@ Design and Developed by: featurethemes
 	font-size: 14px;
 	font-weight: 500;
 	transition: all 0.3s ease;
-	border: 1px solid #ff214f;
+	border: 1px solid #58c9a0;
 	border-radius: 2px;
 	padding: 10px 30px;
 	text-transform: uppercase;
@@ -816,13 +816,13 @@ Design and Developed by: featurethemes
 /* background -images
  ------------------------------ */
 .background-image01 {
-	background:#ff214f url(../images/bg-img1.png) no-repeat left top;
+	background:#58c9a0 url(../images/bg-img1.png) no-repeat left top;
 	background-size: cover;
 	padding:7% 7%;
 }
 
 .background-image02 {
-	background:#ff214f url(../images/bg-img3.png) no-repeat left top;
+	background:#58c9a0 url(../images/bg-img3.png) no-repeat left top;
 	background-size: cover;
 	padding:10% 10%;
 }
@@ -895,17 +895,17 @@ Design and Developed by: featurethemes
 	padding:7% 7%;
 }
 .background-image15 {
-	background:#ff214f url(../images/bg-img10.png) no-repeat left top;
+	background:#58c9a0 url(../images/bg-img10.png) no-repeat left top;
 	background-size: cover;
 	padding:10% 10%;
 }
 .background-image16 {
-	background:#ff214f url(http://via.placeholder.com/1920x1050) no-repeat left top;
+	background:#58c9a0 url(http://via.placeholder.com/1920x1050) no-repeat left top;
 	background-size: cover;
 	padding:10% 10%;
 }
 .background-image17 {
-	background:#ff214f url(http://via.placeholder.com/1920x1050) no-repeat left top;
+	background:#58c9a0 url(http://via.placeholder.com/1920x1050) no-repeat left top;
 	background-size: cover;
 	padding:15% 10%;
 }
@@ -1103,7 +1103,7 @@ Design and Developed by: featurethemes
 }
 .footer ul.tags li a.active {
 	color: #f5254d;
-	border: 1px solid #ff214f;
+	border: 1px solid #58c9a0;
 }
 
 /* quick links */
@@ -1178,13 +1178,13 @@ Design and Developed by: featurethemes
 }
 .footer .social_icons_holder ul.social_icons li a:hover {
 	color: #fff;
-	background-color: #ff214f;
-	border: 1px solid #ff214f;
+	background-color: #58c9a0;
+	border: 1px solid #58c9a0;
 }
 .footer .social_icons_holder ul.social_icons li a.active {
 	color: #fff;
-	background-color: #ff214f;
-	border: 1px solid #ff214f;
+	background-color: #58c9a0;
+	border: 1px solid #58c9a0;
 }
 .footer .quick_links_holder2 {
 	width: 100%;
@@ -1238,8 +1238,8 @@ Design and Developed by: featurethemes
 	float: left;
 	height: 39px;
 	color: #fff;
-	border: 1px solid #ff214f;
-	background-color: #ff214f;
+	border: 1px solid #58c9a0;
+	background-color: #58c9a0;
 }
 .newsletter .email_input {
 	background: none repeat scroll 0px 0px #FFF;
